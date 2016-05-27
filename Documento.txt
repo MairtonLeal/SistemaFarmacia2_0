@@ -1,0 +1,19 @@
+versões
+04/05/2016 | sistema de compra de ingresso |  natalia souto | 1.0
+Nome do sistema
+Sistema de Compra de ingresso para cinema, atraves de um aplicativo android.
+
+Prioridade 1
+o cliente deve conseguir se cadastrar
+o cliente deve conseguir pesquisar a sessão do cinema
+o cliente deve conseguir escolher o assento para a sessão
+o cliente deve conseguir pagar via cartão de crédito
+prioriedade 2
+o cliente deve receber uma notificação de pagamento via e-mail
+Prioridade 3
+o cliente deve conseguir mudar o horário da sessão com até 2 de antecedencia 
+Prioridade 4 
+cliente deve conseguir imprimir um QR  CODE
+Prioridade 5
+o cliente deve conseguir cancelar o pagamento, tendo um reembolso de só 30%
+
